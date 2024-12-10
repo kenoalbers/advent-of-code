@@ -5,7 +5,15 @@ patterns, and approaches.
 View the description for highlights of the day, unique features, programming styles, notable approaches, 
 and distinctive characteristics demonstrated in the solution.
 
-> **Structure:**
+> **Note:**  
+> No files share any contents except through the shared folder.
+> Challenge part 1 and 2 are independent of one another and code is copied for part 2.
+
+<details>
+<summary>Year 2024</summary>
+The year of the :snake: Python :snake:
+
+> **Folder structure:**
 > - \<year number\>
 >  - \<day number\>
 >    - assets
@@ -16,12 +24,6 @@ and distinctive characteristics demonstrated in the solution.
 >    - \_\_init\_\_.py
 >  - \_\_init\_\_.py
 
-> **Note:**  
-> No files share any contents except through the shared folder.
-> Challenge part 1 and 2 are independent of one another and code is copied for part 2.
-
-## Year 2024
-The year of the :snake: Python :snake:
 ### Day 1
 **Features:**
 - Imperative programming
@@ -64,3 +66,5 @@ The year of the :snake: Python :snake:
 **Features:**
 - Simple Object-Oriented-Programming
 -
+
+</details>
