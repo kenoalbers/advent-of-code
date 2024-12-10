@@ -1,4 +1,4 @@
-# [Advent of Code](https://adventofcode.com)
+# [Advent of Code :christmas_tree:](https://adventofcode.com)
 Exploring new languages, features, and packages while learning and experimenting with different programming paradigms,
 patterns, and approaches.
 
@@ -12,9 +12,9 @@ and distinctive characteristics demonstrated in the solution.
 <details>
 <summary>Year 2024</summary>
 
+<br/><br/>
 The year of the :snake: Python :snake:
-<br/>
-<br/>
+<br/><br/>
 
 > **Folder structure:**
 > - \<year number\>
