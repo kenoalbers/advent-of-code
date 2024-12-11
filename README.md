@@ -13,7 +13,8 @@ and distinctive characteristics demonstrated in the solution.
 <summary>Year 2024</summary>
 <br/>
 The year of the :snake: Python :snake:
-<br/><br/>
+<br/>
+<br/>
 
 > **Folder structure:**
 > - \<year number\>
@@ -26,47 +27,75 @@ The year of the :snake: Python :snake:
 >    - \_\_init\_\_.py
 >  - \_\_init\_\_.py
 
-### Day 1
-**Features:**
-- Imperative programming
+<br/>
 
-### Day 2
-**Approach:**
-- Compare every next two levels.
-  - \[7 6 4 2 1\] -> 7 & 6 -> 6 & 4 -> ...
-- Return False if a rule is broken.
-
-**Features:**
-- Functional programming
-- Immutable and Deterministic functions
-  - Functions have no side effects
-  - No observable effects outside its scope
-- Pipeline design pattern
-  - Utilizing `compose` from `toolz`
-
-### Day 3
-**Approach:**
-- Use a regular expression with capturing groups to extract pairs of numbers from the input.
-- Parse the extracted values as integers.
-- Multiply the pairs of numbers.
-- Compute the sum of all resulting products.
-
-**Features:**
-- One-liner
-- Regex with capturing groups
-
-### Day 4
-**Approach:**
-
-**Features:**
-- Simple Object-Oriented-Programming
-- 
-
-### Day 5
-**Approach:**
-
-**Features:**
-- Simple Object-Oriented-Programming
--
+<table>
+  <thead>
+    <tr>
+      <th style="width:5%">Day</th>
+      <th style="width:5%">Finished</th>
+      <th style="width:15%">Style</th>
+      <th style="width:30%">Notable Approach</th>
+      <th style="width:30%">Notable Features</th>
+      <th style="width:15%">Other</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1.1 <br/> 1.2</td>
+      <td>:star: :star:</td>
+      <td>Imperative</td>
+      <td>/</td>
+      <td>/</td>
+      <td>/</td>
+    </tr>
+    <tr>
+      <td>2.1</td>
+      <td>:star:</td>
+      <td>Functional</td>
+      <td>
+        <ul>
+          <li>Compare every next two level in a tuple.</li>
+          <ul>
+            <li>[7 6 4 2 1] -> (7, 6) -> (6, 4) -> ...</li>
+          </ul>
+          <li>Return False if a rule is broken.</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Immutable and deterministic functions</li>
+          <ul>
+            <li>No side effects</li>
+            <li>No observable effects outside its scope</li>
+          </ul>
+          <li>Pipeline design pattern</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Utilizing 'compose' from 'toolz'</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3.1</td>
+      <td>:star:</td>
+      <td>One-liner</td>
+      <td>
+        <ul>
+          <li>Regex to capture pairs of numbers./li>
+          <li>Compute the sum of the resulting products.</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Regex with capturing groups.</li>
+        </ul>
+      </td>
+      <td>/</td>
+    </tr>
+  </tbody>
+</table>
 
 </details>
