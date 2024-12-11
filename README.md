@@ -11,8 +11,7 @@ and distinctive characteristics demonstrated in the solution.
 
 <details>
 <summary>Year 2024</summary>
-
-<br/><br/>
+<br/>
 The year of the :snake: Python :snake:
 <br/><br/>
 
