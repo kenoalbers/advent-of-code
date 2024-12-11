@@ -22,6 +22,7 @@ The year of the :snake: Python :snake:
 >    - assets
 >      - input.txt (individual challenge input)
 >      - input_demo.txt (example input)
+>      - input_demo_2.txt (if available)
 >    - 1.py (first challenge)
 >    - 2.py (second challenge)
 >    - \_\_init\_\_.py
@@ -36,8 +37,8 @@ The year of the :snake: Python :snake:
       <th style="width:5%">Finished</th>
       <th style="width:15%">Style</th>
       <th style="width:30%">Notable Approach</th>
-      <th style="width:30%">Notable Features</th>
-      <th style="width:15%">Other</th>
+      <th style="width:25%">Notable Features</th>
+      <th style="width:20%">Other</th>
     </tr>
   </thead>
   <tbody>
@@ -70,13 +71,10 @@ The year of the :snake: Python :snake:
             <li>No observable effects outside its scope</li>
           </ul>
           <li>Pipeline design pattern</li>
-        </ul>
-      </td>
-      <td>
-        <ul>
           <li>Utilizing 'compose' from 'toolz'</li>
         </ul>
       </td>
+      <td>/</td>
     </tr>
     <tr>
       <td>3.1</td>
@@ -84,7 +82,7 @@ The year of the :snake: Python :snake:
       <td>One-liner</td>
       <td>
         <ul>
-          <li>Regex to capture pairs of numbers./li>
+          <li>Regex to capture pairs of numbers.</li>
           <li>Compute the sum of the resulting products.</li>
         </ul>
       </td>
@@ -94,6 +92,28 @@ The year of the :snake: Python :snake:
         </ul>
       </td>
       <td>/</td>
+    </tr>
+    <tr>
+      <td>8.1</td>
+      <td>:star:</td>
+      <td>Functional</td>
+      <td>
+        <ul>
+          <li>Create a list of antennas and coordinates.</li>
+          <li>Create a list of all possible antinodes.</li>
+          <li>Remove antinodes not in boundary.</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Using numpy for vector calculations.</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Note: when you pop an element out of an array, lower the "loop variable"</li>
+        </ul>
+      </td>
     </tr>
   </tbody>
 </table>
