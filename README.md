@@ -33,12 +33,12 @@ The year of the :snake: Python :snake:
 <table>
   <thead>
     <tr>
-      <th style="width:5%">Day</th>
-      <th style="width:5%">Finished</th>
-      <th style="width:15%">Style</th>
-      <th style="width:30%">Notable Approach</th>
-      <th style="width:25%">Notable Features</th>
-      <th style="width:20%">Other</th>
+      <th style="width:5%;">Day</th>
+      <th style="width:5%;">Finished</th>
+      <th style="width:15%; font-size: 4px;">Style</th>
+      <th style="width:30%;">Notable Approach</th>
+      <th style="width:25%;">Notable Features</th>
+      <th style="width:20%;">Other</th>
     </tr>
   </thead>
   <tbody>
