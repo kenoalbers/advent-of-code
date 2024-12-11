@@ -54,24 +54,16 @@ The year of the :snake: Python :snake:
       <td>:star:</td>
       <td>Functional</td>
       <td>
-        <ul>
-          <li>Compare every next two level in a tuple.</li>
-          <ul>
-            <li>[7 6 4 2 1] -> (7, 6) -> (6, 4) -> ...</li>
-          </ul>
-          <li>Return False if a rule is broken.</li>
-        </ul>
+        1. Compare every next two level in a tuple.<br>
+        1.1. [7 6 4 2 1] -> (7, 6) -> (6, 4) -> ...<br>
+        2. Return False if a rule is broken.<br>
       </td>
       <td>
-        <ul>
-          <li>Immutable and deterministic functions</li>
-          <ul>
-            <li>No side effects</li>
-            <li>No observable effects outside its scope</li>
-          </ul>
-          <li>Pipeline design pattern</li>
-          <li>Utilizing 'compose' from 'toolz'</li>
-        </ul>
+        1. Immutable and deterministic functions.<br>
+        1.1. No side effects.<br>
+        1.2. No observable effects outside its scope.<br>
+        2. Pipeline design pattern.<br>
+        3. Utilizing 'compose' from 'toolz'.<br>
       </td>
       <td>/</td>
     </tr>
@@ -80,15 +72,11 @@ The year of the :snake: Python :snake:
       <td>:star:</td>
       <td>One-liner</td>
       <td>
-        <ul>
-          <li>Regex to capture pairs of numbers.</li>
-          <li>Compute the sum of the resulting products.</li>
-        </ul>
+        1. Regex to capture pairs of numbers.<br>
+        2. Compute the sum of the resulting products.<br>
       </td>
       <td>
-        <ul>
-          <li>Regex with capturing groups.</li>
-        </ul>
+        1. Regex with capturing groups.<br>
       </td>
       <td>/</td>
     </tr>
@@ -102,14 +90,10 @@ The year of the :snake: Python :snake:
         3. Remove antinodes not in boundary.<br>
       </td>
       <td>
-        <ul>
-          <li>Using numpy for vector calculations.</li>
-        </ul>
+        1. Using numpy for vector calculations.<br>
       </td>
       <td>
-        <ul>
-          <li>Note: when you pop an element out of an array, lower the "loop variable"</li>
-        </ul>
+        Note: when you pop an element out of an array, lower the "loop variable".<br>
       </td>
     </tr>
   </tbody>
