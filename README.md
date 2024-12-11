@@ -6,8 +6,7 @@ View the description for highlights of the day, unique features, programming sty
 and distinctive characteristics demonstrated in the solution.
 
 > **Note:**  
-> No files share any contents except through the shared folder.
-> Challenge part 1 and 2 are independent of one another and code is copied for part 2.
+> No files share any contents. Challenge part 1 and 2 are independent of one another and code is copied for part 2.
 
 <details>
 <summary>Year 2024</summary>
@@ -35,7 +34,7 @@ The year of the :snake: Python :snake:
     <tr>
       <th style="width:5%;">Day</th>
       <th style="width:5%;">Finished</th>
-      <th style="width:15%; font-size: 4px;">Style</th>
+      <th style="width:15%;">Style</th>
       <th style="width:30%;">Notable Approach</th>
       <th style="width:25%;">Notable Features</th>
       <th style="width:20%;">Other</th>
@@ -98,11 +97,9 @@ The year of the :snake: Python :snake:
       <td>:star:</td>
       <td>Functional</td>
       <td>
-        <ul>
-          <li>Create a list of antennas and coordinates.</li>
-          <li>Create a list of all possible antinodes.</li>
-          <li>Remove antinodes not in boundary.</li>
-        </ul>
+        1. Create a list of antennas and coordinates.<br>
+        2. Create a list of all possible antinodes.<br>
+        3. Remove antinodes not in boundary.<br>
       </td>
       <td>
         <ul>
