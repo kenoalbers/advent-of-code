@@ -55,13 +55,13 @@ The year of the :snake: Python :snake:
       <td>Functional</td>
       <td>
         1. Compare every next two level in a tuple.<br>
-        1.1. [7 6 4 2 1] -> (7, 6) -> (6, 4) -> ...<br>
+        - E.g. [7 6 4 2 1] -> (7, 6) -> (6, 4) -> ...<br>
         2. Return False if a rule is broken.<br>
       </td>
       <td>
         1. Immutable and deterministic functions.<br>
-        1.1. No side effects.<br>
-        1.2. No observable effects outside its scope.<br>
+        - No side effects.<br>
+        - No observable effects outside its scope.<br>
         2. Pipeline design pattern.<br>
         3. Utilizing 'compose' from 'toolz'.<br>
       </td>
