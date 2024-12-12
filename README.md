@@ -11,12 +11,11 @@ and distinctive characteristics demonstrated in the solution.
 <details>
 <summary>Year 2024</summary>
 <br/>
-The year of the :snake: Python :snake:
+The year of the  :snake: Python :snake:
 <br/>
 <br/>
 
 > **Folder structure:**
-> - \<year number\>
 >  - \<day number\>
 >    - assets
 >      - input.txt (individual challenge input)
@@ -94,6 +93,69 @@ The year of the :snake: Python :snake:
       </td>
       <td>
         Note: when you pop an element out of an array, lower the "loop variable".<br>
+      </td>
+    </tr>
+    <tr>
+      <td>9.1</td>
+      <td></td>
+      <td></td>
+      <td>
+        1. .<br>
+        2. .<br>
+      </td>
+      <td>
+        1. .<br>
+      </td>
+      <td>
+        /
+      </td>
+    </tr>
+    <tr>
+      <td>10.1</td>
+      <td></td>
+      <td></td>
+      <td>
+        1. .<br>
+        2. .<br>
+      </td>
+      <td>
+        1. .<br>
+      </td>
+      <td>
+        /
+      </td>
+    </tr>
+    <tr>
+      <td>11.1<br>11.2</td>
+      <td>:star:</td>
+      <td>Functional</td>
+      <td>
+        1. Apply rules to a single stone.<br>
+        2. Apply rules to all stones (at the same time).<br>
+      </td>
+      <td>
+        1. Introduced a main function to avoid referencing variables in outer scope.<br>
+        2. Added a timer to time the program execution time.<br>
+        - Used divmod() to divide and use modulo.<br>
+        3. Added python concurrent functionality.<br>
+      </td>
+      <td>
+        /
+      </td>
+    </tr>
+    <tr>
+      <td>9.1</td>
+      <td></td>
+      <td></td>
+      <td>
+        1. .<br>
+        2. .<br>
+      </td>
+      <td>
+        1. .<br>
+      </td>
+      <td>
+        /
       </td>
     </tr>
   </tbody>
